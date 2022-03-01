@@ -1,2 +1,2 @@
 # FloraApp
-Aplicación para gestionar floras que usa una API REST
+Aplicación para gestionar floras mediante una API REST
