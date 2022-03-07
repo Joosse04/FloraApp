@@ -12,7 +12,7 @@ Además, dispone de un FloatingActionButton a través del cual podemos añadir l
 Para la inserción de floras e imágenes tenemos en cuenta que sean por separado, primero la flora y después la imagen, enlazando cada imagen a su flora correspondiente a través del ID.
 Importante: El campo nombre de la flora es obligatorio para la inserción de la misma.
 
-<img width="414" alt="Añadir flora" src="https://user-images.githubusercontent.com/81351100/156725828-a9c4daeb-6602-44bf-bf7e-d97deb6e0e6b.png">.
+<img width="414" alt="Añadir flora" src="https://user-images.githubusercontent.com/81351100/156725828-a9c4daeb-6602-44bf-bf7e-d97deb6e0e6b.png">
 <img width="421" alt="Añadir Imagen" src="https://user-images.githubusercontent.com/81351100/156726111-97dd111e-ac20-4472-8d1e-32e9b2694da0.png">
 
 ## Editar Floras 🔧
