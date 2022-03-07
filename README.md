@@ -21,14 +21,14 @@ Lo unico que tenemos que tener en cuenta es que el nombre de la flora no esté v
 <img width="419" alt="Editar flora" src="https://user-images.githubusercontent.com/81351100/156727840-cc2b54dc-576d-492b-96be-88fd06fdf2e2.png">
 
 ## Herramientas ⚒
-<li>Java - Lenguaje de programación</li>
-<li>Laravel - Framework web</li>
-<li>Android Studio - Entorno de desarrollo</li>
+* Java - Lenguaje de programación
+* Laravel - Framework web
+* Android Studio - Entorno de desarrollo
 
 ## Autor ✍🏻
 <b> Jose Gallardo </b> - <a href="https://github.com/Joosse04">Joosse04</a>
 
 ## Gracias por pasarte 🥰
-<li>Comenta a otros sobre mi proyecto si te gustó. 🥳</li>
-<li>Gracias por visitar mi github. 😇</li>
-<li>Que pases un buen día. ☀️</li>
+* Comenta a otros sobre mi proyecto si te gustó. 🥳
+* Gracias por visitar mi github. 😇
+* Que pases un buen día. ☀️
